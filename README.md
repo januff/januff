@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/januff/januff/blob/master/at-the-desk.jpg" alt="Illustration of Joey at his desk" width=350px height=312px/>
 
-### Almost Comical 
-
+### Almost Comical: Joey's Developer Journey
+A full-stack developer focused on cloud ML and international comics canon.
 <p align="left">  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
